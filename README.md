@@ -1,2 +1,2 @@
 # Facturacion
-Facturacion con Angular proyecto de ejemplo
+ proyecto de ejemplo con angular para un sistema de facturacion
